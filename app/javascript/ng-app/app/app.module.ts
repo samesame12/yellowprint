@@ -15,7 +15,7 @@ enableProdMode();
 const appRoutes: Routes = [
   { path: '', component: FirstComponent },
   { path: 'first', component: FirstComponent },
-  { path: 'second', component: SecondComponent }
+  { path: 'second', component: SecondComponent },
   { path: 'third', component: ThirdComponent}
 ];
 
